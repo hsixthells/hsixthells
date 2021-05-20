@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hsixthells
+- 👋 Hi, my name is Ilya
 - 👀 I’m interested in html and css
 - 🌱 I’m currently learning at school
 - 💞️ I’m looking to collaborate on my decorated sites
